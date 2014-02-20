@@ -1,0 +1,15 @@
+{
+  "name": "yields-combo",
+  "description": "Keyboard combo like Gmail.",
+  "version": "0.0.1",
+  "keywords": [
+    "combo",
+    "keyboard",
+    "gmail"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-keycode": "git://github.com/npmcomponent/yields-keycode.git"
+  },
+  "license": "MIT"
+}

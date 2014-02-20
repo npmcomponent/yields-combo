@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var keycode = require('keycode');
+var keycode = require('yields-keycode');
 
 /**
  * Invoke the given `fn(e)` when `keys` are pressed within `ms`.
